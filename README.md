@@ -3,7 +3,7 @@ my interests lie in Machine Learning Theory and the mathematics to develop it.
 <!-- , my university backgroung is numerical analysis and probability. -->
 
 <hr>
-
+<p align=center>
 <div class="col-lg-4 text-center">
   <div class="profile">
       <!-- <img src="./images/face_016.jpg" width="120" height="160" > -->
@@ -17,7 +17,8 @@ my interests lie in Machine Learning Theory and the mathematics to develop it.
       <a href="mailto:pierb@princeton.edu"><span class="mail.svg"></span></a>
   </div>
 </div>
-
+</p>
+<hr>
 
 🌱 I’m currently learning to run neural networks to enhance my research!
 
