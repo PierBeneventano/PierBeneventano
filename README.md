@@ -11,11 +11,10 @@ my interests lie in Machine Learning Theory and the mathematics to develop it.
       <!-- <img height="20" width="20" src="./assets/icons/mail.svg" /> <a class="contact-link"href=""> pierb@princeton.edu</a>
       <img height="20" width="20" src="./assets/icons/graduation.svg" /> <a class="contact-link"href="https://scholar.google.com/citations?user=spL439oAAAAJ&hl=en"> Google Scholar</a>
       <img height="20" width="20" src="./assets/icons/user.svg" /> <a class="contact-link"href="https://pierbeneventano.github.io/CV/CV_Beneventano.pdf"> Curriculum vitae</a> -->
-      <a href="https://www.linkedin.com/in/pierbeneventano/"><span class="social-icon fa fa-linkedin"></span></a> &nbsp  &nbsp  
-      <a href="https://join.skype.com/invite/kobWyHxDkzse"><span  class="social-icon fa fa-skype"></span></a> &nbsp  &nbsp 
+      <a href="https://www.linkedin.com/in/pierbeneventano/">linkedin</a> &nbsp  &nbsp  
       <a href="https://pierbeneventano.github.io/CV/CV_Beneventano.pdf" class="links"> CV </a> &nbsp  &nbsp 
-      <a href="https://scholar.google.com/citations?user=spL439oAAAAJ&hl=en"><span class="ai ai-fw ai-google-scholar-square"></span></a> &nbsp  &nbsp 
-      <a href="mailto:pierb@princeton.edu"><span class="social-icon fa fa-envelope"></span></a>
+      <a href="https://scholar.google.com/citations?user=spL439oAAAAJ&hl=en"><span class="graduation.svg"></span></a> &nbsp  &nbsp 
+      <a href="mailto:pierb@princeton.edu"><span class="mail.svg"></span></a>
   </div>
 </div>
 
