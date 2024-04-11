@@ -1,4 +1,4 @@
-Hi 👋, I'm Pier a first year PhD student at [ORFE, Princeton University](https://orfe.princeton.edu/home), 
+Hi 👋, I'm Pier a PhD student at [ORFE, Princeton University](https://orfe.princeton.edu/home), 
 my interests lie in Machine Learning Theory and the mathematics to develop it.
 <!-- , my university backgroung is numerical analysis and probability. -->
 
