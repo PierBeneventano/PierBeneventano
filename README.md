@@ -22,8 +22,6 @@ my interests lie in Machine Learning Theory and the mathematics to develop it.
 </div>
 <hr>
 
-🌱 I’m currently learning to run neural networks to enhance my research!
-
 📫 Feel free to reach on your preferred platform if you want to collaborate on something!
 
 
