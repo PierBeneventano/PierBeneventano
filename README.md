@@ -16,7 +16,6 @@ my interests lie in Machine Learning Theory and the mathematics to develop it.
       <a href="https://pierbeneventano.github.io/CV/CV_Beneventano.pdf" class="links"> CV </a> &nbsp  &nbsp 
       <a href="https://scholar.google.com/citations?user=spL439oAAAAJ&hl=en">Google scholar</a> &nbsp  &nbsp 
       <a href="mailto:pierb@princeton.edu">email</a> &nbsp  &nbsp 
-      <a href="https://www.instagram.com/prbn96/">instagram</a> &nbsp  &nbsp 
       </p>
   </div>
 </div>
